@@ -140,7 +140,7 @@ Fullstack developer specializing in Next.js-based web applications with modern U
 
 ### Activity
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=eneshenderson&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="150" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=eneshikmetkayim&theme=bear&border_radius=11.7&date_format=j%20M%5B%20Y%5D" height="150" />
 
 </div>
 
