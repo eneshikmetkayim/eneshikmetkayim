@@ -132,8 +132,8 @@ Fullstack developer specializing in Next.js-based web applications with modern U
 
 ### Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=eneshenderson&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eneshenderson&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=eneshikmetkayim&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eneshikmetkayim&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
 
 ---
 
